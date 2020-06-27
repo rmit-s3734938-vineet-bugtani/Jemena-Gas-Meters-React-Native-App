@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "JemenaGasMeter.ApiTest": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Development": "Development",
+        "Test": "Test"
+      }
+    }
+  }
+}

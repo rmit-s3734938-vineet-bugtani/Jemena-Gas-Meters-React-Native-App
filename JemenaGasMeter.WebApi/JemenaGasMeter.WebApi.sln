@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JemenaGasMeter.WebApi", "JemenaGasMeter.WebApi.csproj", "{7969D634-443C-4A1C-8318-3681A4D8D444}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JemenaGasMeter.ApiIntergrationTest", "..\JemenaGasMeterApiTest\JemenaGasMeter.ApiIntergrationTest.csproj", "{3B0F05BF-0C46-42F5-AF57-C9ACC111BB86}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JemenaGasMeter.Application", "..\JemenaGasMeter.Application\JemenaGasMeter.Application.csproj", "{0FAC713A-CB1D-4359-8470-331D2C3E9A0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7969D634-443C-4A1C-8318-3681A4D8D444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7969D634-443C-4A1C-8318-3681A4D8D444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7969D634-443C-4A1C-8318-3681A4D8D444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7969D634-443C-4A1C-8318-3681A4D8D444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B0F05BF-0C46-42F5-AF57-C9ACC111BB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0F05BF-0C46-42F5-AF57-C9ACC111BB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0F05BF-0C46-42F5-AF57-C9ACC111BB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0F05BF-0C46-42F5-AF57-C9ACC111BB86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FAC713A-CB1D-4359-8470-331D2C3E9A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FAC713A-CB1D-4359-8470-331D2C3E9A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FAC713A-CB1D-4359-8470-331D2C3E9A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FAC713A-CB1D-4359-8470-331D2C3E9A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45B954C9-B7A1-4267-80E4-25D2CC9311AE}
+	EndGlobalSection
+EndGlobal
