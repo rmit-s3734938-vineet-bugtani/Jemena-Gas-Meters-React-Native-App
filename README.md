@@ -7,6 +7,10 @@ entire lifcycle of a gas meter, right from the time it leaves the warehouse with
 customers house.It is built using React Native with Redux for the front end and .NET web API as the backend. SQLite is used the 
 database.
 
+## Demo video
+
+https://youtu.be/cnWWMJBE5Lc
+
 ## Features
 
 - The GST can pickup meters from the warehouse and assign it on his name, simply by entering the gas meter ID or by scanning the 
